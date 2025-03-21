@@ -1,7 +1,7 @@
 <template>
   <RouterView />
 </template>
-<script setup >
+<script setup>
 import { RouterView } from 'vue-router'
 import { createAppKit } from '@reown/appkit/vue'
 import { SolanaAdapter } from '@reown/appkit-adapter-solana'
